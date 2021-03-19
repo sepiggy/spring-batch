@@ -1,4 +1,4 @@
-package cn.sepiggy.springbatchstudy01;
+package cn.sepiggy.chapter01helloworld;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

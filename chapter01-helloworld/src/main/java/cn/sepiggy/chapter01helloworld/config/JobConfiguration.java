@@ -1,4 +1,4 @@
-package cn.sepiggy.springbatchstudy01.config;
+package cn.sepiggy.chapter01helloworld.config;
 
 import lombok.val;
 import org.springframework.batch.core.Job;

@@ -1,4 +1,4 @@
-package cn.sepiggy.springbatchstudy02.config;
+package cn.sepiggy.chapter02job.config;
 
 import org.springframework.batch.core.Job;
 import org.springframework.batch.core.Step;
@@ -12,7 +12,7 @@ import org.springframework.context.annotation.Configuration;
 
 @Configuration
 @EnableBatchProcessing
-public class JobDemo {
+public class JobDemoConfig {
 
     @Autowired
     private JobBuilderFactory jobBuilderFactory;

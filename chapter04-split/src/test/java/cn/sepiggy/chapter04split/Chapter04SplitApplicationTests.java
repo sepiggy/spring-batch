@@ -1,10 +1,10 @@
-package cn.sepiggy.springbatchstudy02;
+package cn.sepiggy.chapter04split;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Chapter02JobApplicationTests {
+class Chapter04SplitApplicationTests {
 
     @Test
     void contextLoads() {

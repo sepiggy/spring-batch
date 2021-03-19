@@ -1,10 +1,10 @@
-package cn.sepiggy.springbatchstudy01;
+package cn.sepiggy.chapter05decider;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Chapter01HelloworldApplicationTests {
+class Chapter05DeciderApplicationTests {
 
     @Test
     void contextLoads() {
