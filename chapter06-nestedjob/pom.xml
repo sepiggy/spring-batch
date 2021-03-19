@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>cn.sepiggy</groupId>
-    <artifactId>chapter05-decider</artifactId>
+    <artifactId>chapter06-nestedjob</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>chapter05-decider</name>
+    <name>chapter06-nestedjob</name>
     <description>Demo project for Spring Batch</description>
     <properties>
         <java.version>11</java.version>

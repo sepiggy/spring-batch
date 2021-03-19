@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>cn.sepiggy</groupId>
-    <artifactId>chapter05-decider</artifactId>
+    <artifactId>chapter07-listener</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>chapter05-decider</name>
+    <name>chapter07-listener</name>
     <description>Demo project for Spring Batch</description>
     <properties>
         <java.version>11</java.version>
@@ -25,7 +25,10 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-data-jdbc</artifactId>
         </dependency>
-
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+        </dependency>
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
